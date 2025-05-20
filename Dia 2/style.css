@@ -1,0 +1,18 @@
+header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(36, 0, 39);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#ul-header {
+    display:flex;
+    gap: 10px;
+    list-style: none;
+}
+.subtitulos {
+    color: rgb(49, 0, 67);
+}
+.Top-10 {
+    display: flex;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(210, 194, 175);
+}
+header {
+    display: flex;
+    background-color: rgb(37, 0, 0);
+    color: aliceblue;
+    align-items: center;
+    justify-content: space-between;
+}
+#hola {
+    font-size: xx-large;
+}
+h2 {
+    color: aliceblue;
+    background-color: rgb(44, 0, 0);
+}
+h3 {
+    color: rgb(42, 0, 0);
+}
+h4 {
+    color: brown;
+}
