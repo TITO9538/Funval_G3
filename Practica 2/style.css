@@ -1,0 +1,98 @@
+body {
+    background-color: #0D1B2A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form {
+    border: solid 3px #778DA9;
+    border-radius: 15px;
+    padding: 10px;
+    width: 400px;
+}
+
+#form-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#form-main {
+    color: #a0b5cf;
+}
+
+.form-main-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-main-div-1 {
+    padding: 10px 10px;
+    margin: 5px;
+    width: 300px;
+    background-color: #212c40;
+    border: #abc0da solid;
+    border-radius: 10px;
+    color: rgb(183, 211, 235);
+}
+
+#form-main-div-underPassword {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 30px;
+}
+
+#checkbox {
+    width: 10px;
+}
+
+#stay-login {
+    padding: 0px 100px 0px 0px;
+    color: #3d4c65;
+}
+
+.form-main-div-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-main-button {
+    padding: 10px 30px;
+    margin: 0px 5px 40px;
+    background-color: #415A77;
+    color: azure;
+    border: solid #0D1B2A;
+    border-radius: 5px;
+}
+
+#form-footer {
+    background-color: #415A77;
+    border-radius: 10px;
+    margin: 1px;
+    padding: 1px 10px;
+    color: rgb(142, 172, 198);
+}
+
+h3 {
+    color: #afd3fe;
+}
+
+.form-footer-each {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-footer {
+    margin: 1px 5px;
+}
